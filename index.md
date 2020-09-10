@@ -2,6 +2,6 @@
 title: Lerntagebuch
 ---
 
-## Willkommen zu meinem Lerntagebuch
+## Välkommen till en ny värld
+Hier werde ich meinen Weg durch die mir neue Welt der **Bibliotheks- und Archivinformatik** dokumentieren. Es freut mich wenn ihr mich ein Stück begleitet.
 
-Ich schreibe hier über meine Erfahrungen im Kurs **Bibliotheks- und Archivinformatik**.
