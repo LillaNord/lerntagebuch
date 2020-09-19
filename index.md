@@ -1,5 +1,5 @@
 ---
-title: Lerntagebuch
+title: Logbuch
 ---
 
 ## Välkommen 
